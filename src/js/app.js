@@ -49,7 +49,7 @@ function init() {
         updateCanvas(userInput);
         console.log("input")
     });
-    updateCanvas("canka!");
+    updateCanvas("test");
 }
 function render() {
     requestAnimationFrame(render);
